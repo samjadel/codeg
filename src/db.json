@@ -1,0 +1,101 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "q": "What is the default port number in which the application runs?",
+      "hint": "Andre ___ from Outkasr",
+      "answerKey": "3000"
+    },
+    {
+      "id": 2,
+      "q": "How can we pass data from one component to another in React.js?",
+      "hint": "Short for property",
+      "answerKey": "props"
+    },
+    {
+      "id": 3,
+      "q": "Write the body of a React Component in the least amount of characters:",
+      "hint": "Can include an empty fragment",
+      "answerKey": "return(<></>)"
+    },
+    {
+      "id": 4,
+      "q": "What command is used to start the React local development server?",
+      "hint": "Not stop but",
+      "answerKey": "npm start"
+    },
+    {
+      "id": 5,
+      "q": "Which keyword creates a constant in JavaScript?",
+      "hint": "In the word",
+      "answerKey": "const"
+    },
+    {
+      "id": 6,
+      "q": "What is the HTML-like syntax extension for JavaScript to be used with React?",
+      "hint": "Not JavaScript but…",
+      "answerKey": "JSX"
+    },
+    {
+      "id": 7,
+      "q": "What tool does React use to compile JSX?",
+      "hint": "Tower of",
+      "answerKey": "Babel"
+    },
+    {
+      "id": 8,
+      "q": "Which operator can be used to conditionally render a React component:",
+      "hint": "And And",
+      "answerKey": "&&"
+    },
+    {
+      "id": 9,
+      "q": "When rendering a list using the JavaScript map() method, what is required for each element rendered?",
+      "hint": "Lock and ...",
+      "answerKey": "key"
+    },
+    {
+      "id": 10,
+      "q": "React component names must begin with a lowercase letter",
+      "hint": "True or False",
+      "answerKey": "false"
+    }
+  ],
+  "players": [
+    {
+      "name": "Alejandro",
+      "id": 1,
+      "score": 10
+    },
+    {
+      "name": "Sam",
+      "score": 9,
+      "id": 2
+    },
+    {
+      "name": "sak",
+      "score": 9,
+      "id": 4
+    },
+    {
+      "name": "emptyarray",
+      "score": 9,
+      "id": 5
+    },
+    {
+      "name": "Cesare",
+      "score": 8,
+      "id": 6
+    },
+    {
+      "name": "Aaron Zivon ",
+      "score": 7,
+      "id": 7
+    },
+    {
+      "name": "",
+      "score": 0,
+      "id": 8
+    }
+  ]
+}
